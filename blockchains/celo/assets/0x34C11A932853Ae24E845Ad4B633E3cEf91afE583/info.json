@@ -1,11 +1,24 @@
 {    
     "name": "cRecy Token",
     "website": "https://www.detrashtoken.com/",
-    "description": "BUSD is a stablecoin issued by Paxos in partnership with Binance.",
-    "explorer": "https://explorer.celo.org/token/0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
+    "description": "cRECY is a token based on verified recycling and composting reports. It is the native token of the Recy Network, a ReFi system built to erradicatem waste pollution in the world..",
+    "explorer": "https://explorer.bitquery.io/celo_rc1/token/0x34c11a932853ae24e845ad4b633e3cef91afe583",
     "type": "ERC20",
     "symbol": "cRECY",
     "decimals": 18,
     "status": "active",
-    "id": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583"
+    "id": "0x34C11A932853Ae24E845Ad4B633E3cEf91afE583",
+     "tags": [
+        "Refi"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/detrashcrypto"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/detrash.crypto/"
+        }
+    ]
 }
